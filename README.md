@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HermieJames
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding like java
-- 💞️ I’m looking to collaborate on java programming
+- 🌱 I’m currently learning programming 
+- 💞️ I’m looking to collaborate on java
 - 📫 ig:hermiejamess
 
 <!---
